@@ -1,0 +1,22 @@
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\BUS.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\DAO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\DAO.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\obj\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\BUS\obj\Debug\BUS.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\BUS.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\DAO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\DAO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\obj\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\BUS\obj\Debug\BUS.pdb

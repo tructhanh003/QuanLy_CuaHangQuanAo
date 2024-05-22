@@ -1,0 +1,12 @@
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\obj\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\DTO\obj\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\obj\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,179 @@
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\GUI.exe.config
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\GUI.exe
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\GUI.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Guna.UI2.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.exe
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\EnvDTE.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\stdole.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_KhoHang.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\DAO.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\BUS.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\DAO.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_ReportSP.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_SanPham.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_ThemSP.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_KhachHang.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.ChiTiet_KH.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_HoaDon.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.ChiTiet_HD.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_ChungTu.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu_NhanVien.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu_ThuKho.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_DangKy.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_PhieuNhap.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_PhieuXuat.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.ThemKH.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_TaiKhoan.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_NhanVien.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.ThemNV.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\HKII_2024_03\LTQL\Đồ án QLBH\UniCloth\GUI\obj\Debug\GUI.ChiTiet_PN.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\GUI.exe.config
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\GUI.exe
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\GUI.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\BUS.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\DTO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Guna.UI2.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\DAO.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\EnvDTE.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\stdole.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\BUS.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\DTO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\DAO.pdb
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ChiTiet_HD.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ChiTiet_KH.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ChiTiet_PN.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ChiTiet_PX.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_ChungTu.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_DangKy.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_HoaDon.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_KhachHang.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_KhoHang.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_NhanVien.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_PhieuNhap.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_PhieuXuat.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_ReportSP.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_SanPham.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_TaiKhoan.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_ThemSP.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu_NhanVien.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.frm_TrangChu_ThuKho.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ThemKH.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.ThemNV.resources
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.exe
+D:\HKII_2024_03\LTQL\DTH216223_NguyenThanhTruc\UniCloth\GUI\obj\Debug\GUI.pdb
